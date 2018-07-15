@@ -1,0 +1,31 @@
+{
+  "name": "mean-ng2",
+  "version": "1.0.0",
+  "description": "Mean stack with angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JobValdez/Mean-Stack-With-Angular2-Learning.git"
+  },
+  "keywords": [
+    "Mean",
+    "Stack",
+    "Angular",
+    "2",
+    "Application"
+  ],
+  "author": "Job Valdez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JobValdez/Mean-Stack-With-Angular2-Learning/issues"
+  },
+  "homepage": "https://github.com/JobValdez/Mean-Stack-With-Angular2-Learning#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.1.1",
+    "mongoose": "^5.2.3"
+  }
+}
